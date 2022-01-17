@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LD_704" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LD_704" />
+    <module name="力扣算法" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
